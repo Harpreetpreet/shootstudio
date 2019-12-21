@@ -11,6 +11,11 @@ const Container = styled.div`
   h1 {
     color: ${props => props.theme.mainBrandColor} !important;
   }
+  section {
+    background: url('/images/pic01.jpg');
+    height: 40rem;
+    background-position: center;
+  }
 `;
 
 export default class IndexPage extends React.Component {
@@ -18,13 +23,15 @@ export default class IndexPage extends React.Component {
     return (
       <Layout>
         <Seo title="Home" description="Welcome to GatsbyJs v1" />
-        <section className="section">
-          <Container className="container">
-            <h1 className="title">Hi people</h1>
-            <p>Welcome to your new Gatsby site.</p>
-            <p>Now go build something great.</p>
-          </Container>
-        </section>
+        <Container>
+          <section className="section">
+            <div className="container">
+              <h1 className="title">Hi people</h1>
+              <p>Welcome to your new Gatsby site.</p>
+              <p>Now go build something great.</p>
+            </div>
+          </section>
+        </Container>
       </Layout>
     );
   }
