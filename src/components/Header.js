@@ -87,18 +87,21 @@ export default class Header extends React.Component {
               </a>
             </div>
             <div className={isActive ? 'navbar-menu is-active' : 'navbar-menu'}>
-              <div className="navbar-start">
+              <div className="navbar-end">
                 <Link to="/" className="navbar-item">
-                  Home
+                  HOME
                 </Link>
                 <Link to="/about" className="navbar-item">
-                  About
+                  ABOUT
                 </Link>
                 <Link to="/news" className="navbar-item">
-                  News
+                  PORTFOLIO
+                </Link>
+                <Link to="/news" className="navbar-item">
+                  PAGES
                 </Link>
                 <Link to="/contact" className="navbar-item">
-                  Contact
+                  CONTACT
                 </Link>
               </div>
             </div>
