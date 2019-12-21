@@ -15,6 +15,7 @@ const Container = styled.div`
     background: url('/images/pic01.jpg');
     height: 40rem;
     background-position: center;
+    background-size: cover;
   }
 `;
 
@@ -26,9 +27,13 @@ export default class IndexPage extends React.Component {
         <Container>
           <section className="section">
             <div className="container">
+              <div className="columns">
+                <div className="column ">
               <h1 className="title">Hi people</h1>
               <p>Welcome to your new Gatsby site.</p>
               <p>Now go build something great.</p>
+              </div>
+              </div>
             </div>
           </section>
         </Container>
