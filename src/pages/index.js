@@ -28,11 +28,11 @@ export default class IndexPage extends React.Component {
           <section className="section">
             <div className="container">
               <div className="columns">
-                <div className="column ">
-              <h1 className="title">Hi people</h1>
-              <p>Welcome to your new Gatsby site.</p>
-              <p>Now go build something great.</p>
-              </div>
+                <div className="column is-4 is-offset-8">
+                  <h1 className="title is-size-5">MODEL PHOTOGRAPHY</h1>
+                  <p className="hint is-size-1">CREATIVE</p>
+                  <p>STUDIO</p>
+                </div>
               </div>
             </div>
           </section>
