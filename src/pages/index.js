@@ -7,6 +7,7 @@ import About from '../components/About';
 import Feature from '../components/Feature';
 import Cardcontent from '../components/Cardcontent';
 import Extra from '../components/Extra';
+import Footer from '../components/Footer';
 
 const Container = styled.div`
   margin-top: 2rem;
@@ -63,6 +64,7 @@ export default class IndexPage extends React.Component {
         <Feature />
         <Cardcontent />
         <Extra />
+        <Footer />
       </Layout>
     );
   }
