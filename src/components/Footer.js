@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-comment-textnodes */
 /* eslint-disable jsx-a11y/alt-text */
 import React from 'react';
 import styled from 'styled-components';
@@ -82,6 +83,7 @@ const Footer = () => (
                     src="https://colorlib.com/preview/theme/shotgear/img/footer_img/footer_img_2.png"
                     alt=""
                   />
+
                   <img src="https://colorlib.com/preview/theme/shotgear/img/footer_img/footer_img_6.png" />
                 </div>
                 <div className="column">
