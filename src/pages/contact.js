@@ -63,7 +63,11 @@ const Contact = () => (
             </p>
           </div>
           <div className="column is-two-fifths">
-            <img className="image" src="/images/contact.svg" alt="contact us" />
+            <img
+              className="image"
+              src="/images/logo-1025.jpg"
+              alt="contact us"
+            />
           </div>
         </div>
       </div>
