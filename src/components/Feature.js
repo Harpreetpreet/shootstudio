@@ -36,7 +36,7 @@ const Feature = () => (
       </h1>
     </section>
 
-    <div className="tabs is-centered">
+    <div className="tabs is-left">
       <ul>
         <li className="is-active">
           <a>ALL PHOTOS</a>
@@ -70,7 +70,7 @@ const Feature = () => (
             <img src="/images/gallery_item_2.png" alt="content" />
           </div>
           <div className="card-image photo2">
-            <img src="/images/gallery_item_5.png" alt="content" />
+            <img src="/images/gallery_item_5.jpg" alt="content" />
           </div>
         </div>
 
@@ -79,7 +79,7 @@ const Feature = () => (
             <img src="/images/gallery_item_3.png" alt="content" />
           </div>
           <div className="card-image photo2">
-            <img src="/images/gallery_item_6.png" alt="content" />
+            <img src="/images/gallery_item_6.jpg" alt="content" />
           </div>
         </div>
       </div>
