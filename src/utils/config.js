@@ -9,7 +9,7 @@ module.exports = {
 
   telephone: '+91-9878448082',
   email: 'preetx025@gmail.com',
-  location: 'United State Of ATTA , USA',
+  location: 'United Streets Of ATTA , (USA)',
   twitter: '@NAME-HERE',
   fbUserId: '@NAME-HERE',
   fbAppID: '@NAME-HERE',
