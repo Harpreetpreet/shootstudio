@@ -74,9 +74,6 @@ const Feature = () => (
             <img src="/images/gallery_item_2.png" alt="content" />
           </div>
           <div className="card-image photo2">
-            <img src="/images/gallery_item_5.jpg" alt="content" />
-          </div>
-          <div className="card-image photo2">
             <img src="/images/iSweetPhoto-38-XL.jpg" alt="content" />
           </div>
         </div>
