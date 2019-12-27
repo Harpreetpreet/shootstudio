@@ -8,6 +8,10 @@ const Container = styled.div`
   .check {
     color: brown;
   }
+  .columns {
+    margin: 0rem !important;
+    padding: 0rem !important;
+  }
   .photo2 {
     opacity: 0.5;
     filter: alpha(opacity=50);

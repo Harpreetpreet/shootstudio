@@ -8,6 +8,10 @@ const Container = styled.div`
   .section {
     margin-top: 1rem;
   }
+  .columns {
+    margin: 0rem !important;
+    padding: 0rem !important;
+  }
   h3:hover {
     color: red;
   }

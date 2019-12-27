@@ -25,6 +25,9 @@ const Container = styled.div`
   .icon {
     color: white;
   }
+  li {
+    margin-top: 0.5rem;
+  }
 `;
 const Footer = () => (
   <Container className="foot">
@@ -140,7 +143,7 @@ const Footer = () => (
           </div>
         </div>
         <p className=" copy has-text-centered has-text-weight-semibold">
-          | This template is made with by Harpreet | 
+          | This template is made with by Harpreet |
         </p>
       </div>
     </section>
