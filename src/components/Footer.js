@@ -37,12 +37,12 @@ const Footer = () => (
                 OUR SERVICE
               </h1>
               <ul className="toper has-text-grey is-size-6 has-text-weight-semibold ">
-                <li>Car accident</li>
-                <li>Personal injury</li>
-                <li>Family law</li>
-                <li>Bank and financial</li>
-                <li>Capital market</li>
-                <li>Employment Law</li>
+                <li>Wedding photography</li>
+                <li>Live coverage</li>
+                <li>Wild life shoot</li>
+                <li>Video editing</li>
+                <li>Fashion photography</li>
+                <li>Info about camera</li>
               </ul>
             </div>
           </div>
