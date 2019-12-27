@@ -4,6 +4,7 @@ import styled from 'styled-components';
 import config from '../utils/config';
 import Seo from '../components/Seo';
 import Layout from '../components/Layout';
+import Footer from '../components/Footer';
 
 const Section = styled.div`
   .container {
@@ -72,6 +73,7 @@ const Contact = () => (
         </div>
       </div>
     </Section>
+    <Footer />
   </Layout>
 );
 

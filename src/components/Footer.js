@@ -140,8 +140,7 @@ const Footer = () => (
           </div>
         </div>
         <p className=" copy has-text-centered has-text-weight-semibold">
-          Copyright ©2019 All rights reserved | This template is made with by
-          Colorlib
+          | This template is made with by Harpreet | 
         </p>
       </div>
     </section>
