@@ -62,7 +62,7 @@ const Feature = () => (
             <img src="/images/gallery_item_1.jpg" alt="content" />
           </div>
           <div className="card-image photo2">
-            <img src="/images/gallery_item_4.png" alt="content" />
+            <img src="/images/gallery_item_4.jpg" alt="content" />
           </div>
         </div>
         <div className="column">
