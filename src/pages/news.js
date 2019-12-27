@@ -25,6 +25,10 @@ const Container = styled.div`
   h1 {
     color: dimgray;
   }
+  .columns {
+    margin: 0rem !important;
+    padding: 0rem !important;
+  }
 `;
 
 const NewsUpdates = ({ data }) => {
