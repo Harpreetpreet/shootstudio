@@ -76,7 +76,7 @@ const Feature = () => (
 
         <div className="column">
           <div className="card-image photo2">
-            <img src="/images/gallery_item_3.png" alt="content" />
+            <img src="/images/gallery_item_3.jpg" alt="content" />
           </div>
           <div className="card-image photo2">
             <img src="/images/gallery_item_6.jpg" alt="content" />
