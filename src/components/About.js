@@ -30,13 +30,13 @@ const About = () => (
       <h6 className="title is-size-5 has-text-centered">ABOUT OUR STUDIO</h6>
     </section>
     <section className="section">
-      <h2 className="head  has-text-centered  has-text-weight-bold">
+      <h2 className="head  has-text-centered  has-text-weight-bold is-size-5-mobile">
         THE CAMERA IS AN INSTRUMENT THAT TEACHES{' '}
       </h2>
-      <h2 className="has-text-centered  has-text-weight-bold">
+      <h2 className="has-text-centered  has-text-weight-bold is-size-5-mobile">
         <span>PEOPLE HOW TO SEE WITHOUT A CAMERA</span>
       </h2>
-      <p className="column is-8 is-offset-2 has-text-centered">
+      <p className="column is-8 is-offset-2 has-text-centered is-size-7-mobile">
         It’s the end of summer the sweltering heat makes human sweat in the
         night and makes the plants and trees wilt even in the moonlit nights.
         The eastern wind breeze brings an eerie feeling, the sky gets darker and
